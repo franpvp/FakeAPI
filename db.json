@@ -1,42 +1,14 @@
-{
-    "libros": [
-        {
-            "id": 1,
-            "titulo": "Harry Potter And The Chamber Of Secrets",
-            "autor": "ROWLING, JOANNE K.",
-            "editorial": "Scholastic",
-            "precio": 19990,
-            "resena": "The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike.And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.",
-            "especificaciones": {
-                "categoria": "Literatura",
-                "sub_categoria": "Young Readers",
-                "idioma": "Inglés",
-                "formato": "Tapa Blanda",
-                "paginas": 352
-            },
-            "stock": 10,
-            "imagen": "/assets/img/libros/literatura/harry-potter2.webp",
-            "enEdicion": false,
-            "enPromo": true
-        },
-        {
-            "id": 2,
-            "titulo": "Alas De Hierro",
-            "autor": "YARROS, REBECCA",
-            "editorial": "Planeta",
-            "precio": 26990,
-            "resena": "El segundo volumen de la serie Empíreo tras Alas de sangre. El fenómeno juvenil de fantasía del que todo el mundo habla. Todos esperaban que Violet Sorrengail muriera en su primer año en el Colegio de Guerra de Basgiath, incluso ella misma. Pero la Trilla fue tan solo la primera de una serie de pruebas imposibles destinadas a deshacerse de los pusilánimes, los indignos y los desafortunados. Ahora comienza el verdadero entrenamiento y Violet no sabe cómo logrará superarlo. No solo porque es brutal y agotador ni porque está diseñado para llevar al límite el umbral del dolor de los jinetes, sino porque el nuevo vicecomandante está empeñado en demostrar a Violet lo débil que es a menos que traicione al hombre que ama. Aunque el cuerpo de Violet es más frágil que el de sus compañeros, su fuerza radica en su ingenio y voluntad de hierro. Además, los líderes están olvidando la lección más importante que Basgiath les ha enseñado: los jinetes de dragones crean sus propias reglas. La voluntad de sobrevivir no será suficiente este año, porque Violet conoce el secreto que se oculta entre los muros del colegio y nada, ni siquiera el fuego de dragón, será suficiente para salvarlos.",
-            "especificaciones": {
-                "categoria": "Literatura",
-                "sub_categoria": "Narrativa Fantastica",
-                "idioma": "Español",
-                "formato": "Tapa Blanda",
-                "paginas": 880
-            },
-            "stock": 15,
-            "imagen": "/assets/img/libros/literatura/Alas-De-Hierro.webp",
-            "enEdicion": false,
-            "enPromo": false
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
