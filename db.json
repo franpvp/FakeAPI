@@ -37,63 +37,6 @@
             "imagen": "/assets/img/libros/literatura/Alas-De-Hierro.webp",
             "enEdicion": false,
             "enPromo": false
-        },
-        {
-            "id": 3,
-            "titulo": "El Niño Que Perdio La Guerra",
-            "autor": "NAVARRO, JULIA",
-            "editorial": "Plaza & Janés",
-            "precio": 24990,
-            "resena": "Clotilde, una artista gráfica que dibuja caricaturas para los diarios republicanos, asiste en Madrid a los últimos meses de la Guerra Civil. La caída de la República es inminente, por lo que su marido, militante comunista que trabaja para los rusos, decide enviar a Moscú a su hijo Pablo, de tan solo cinco años, en contra de su voluntad. Clotilde se resiste con todas sus fuerzas, pero no logra evitar que el comandante Borís Petrov emprenda ese arriesgado viaje por una España en llamas para cumplir con el deseo de su camarada de llevar a Pablo a la Unión Soviética, donde Stalin está levantando un nuevo país sobre las ruinas del antiguo régimen.",
-            "especificaciones": {
-                "categoria": "Novela",
-                "sub_categoria": "Historica",
-                "idioma": "Español",
-                "formato": "Tapa Blanda",
-                "paginas": 640
-            },
-            "stock": 20,
-            "imagen": "/assets/img/libros/novelas/el-niño-que-perdio-la-guerra.webp",
-            "enEdicion": false,
-            "enPromo": false
-        },
-        {
-            "id": 4,
-            "titulo": "La Chica Oculta",
-            "autor": "RILEY, LUCINDA",
-            "editorial": "Plaza & Janés",
-            "precio": 21990,
-            "resena": "Nacida en un pequeño pueblo de Inglaterra, Leah Thompson crece para convertirse en una joven de belleza deslumbrante. Y, cuando capta la atención de la influyente pero conflictiva familia Delancey, sabe que su vida nunca volverá a ser la misma. Años más tarde, Leah se ha convertido en la supermodelo más cotizada del mundo, rodeada de lujo y glamour. Pero su pasado la persigue como una oscura sombra, misteriosamente entrelazado con la trágica historia de dos hermanos en la Polonia de la Segunda Guerra Mundial. Mientras dos generaciones de secretos amenazan con estallar, Leah se siente atrapada por una terrible profecía de su pasado. Y deberá desafiar al destino que las estrellas han trazado para ella...",
-            "especificaciones": {
-                "categoria": "Novela",
-                "sub_categoria": "Historica",
-                "idioma": "Español",
-                "formato": "Tapa Blanda",
-                "paginas": 544
-            },
-            "stock": 10,
-            "imagen": "/assets/img/libros/novelas/La-Chica-Oculta.webp",
-            "enEdicion": false,
-            "enPromo": true
-        },
-        {
-            "id": 5,
-            "titulo": "Si Lo Crees Lo Creas",
-            "autor": "TRACY, BRIAN",
-            "editorial": "Aguilar",
-            "precio": 14990,
-            "resena": "Dejar ir los pensamientos negativos es uno de los pasos más importantes para vivir una vida exitosa y satisfactoria, pero también el más difícil. En esta práctica guía, el autor best seller Brian Tracy y la psicoterapeuta Christina Stein presentan su programa 'Psicología del logro' para ayudarte a identificar y superar patrones e ideas perjudiciales que te impiden alcanzar tus metas o sentirte feliz y satisfecho en tu vida. Tracy y Stein te ayudan a reconocer cómo la negatividad consciente (y muchas veces inconsciente) afecta tu personalidad, tu perspectiva y tus decisiones, y te muestran cómo recuperar el control de tus pensamientos, sentimientos y acciones para convertir lo negativo en positivo y aprender a aceptar cambios de vida inesperados.",
-            "especificaciones": {
-                "categoria": "Autoayuda",
-                "sub_categoria": "Autoayuda",
-                "idioma": "Español",
-                "formato": "Tapa Blanda",
-                "paginas": 240
-            },
-            "stock": 5,
-            "imagen": "/assets/img/libros/auto-ayuda/Si-Lo-Crees-Lo-Creas.webp",
-            "enEdicion": false,
-            "enPromo": false
         }
     ]
 }
