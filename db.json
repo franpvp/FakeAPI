@@ -2,22 +2,6 @@
   "libros": [
         {
             "id": 1,
-            "titulo": "Harry Potter And The Chamber Of Secrets",
-            "autor": "ROWLING, JOANNE K.",
-            "editorial": "Scholastic", 
-            "precio": 19990,
-            "resena": "",
-            "especificaciones": {
-                "categoria": "Literatura",
-                "sub_categoria": "Young Readers",
-                "idioma": "Inglés",
-                "formato": "Tapa Blanda",
-                "paginas": 352
-            },
-            "stock": 10,
-            "imagen": "/assets/img/libros/literatura/harry-potter2.webp",
-            "enEdicion": false,
-            "enPromo": true
-        }
+            "titulo": "Harry Potter And The Chamber Of Secrets"
     ]
 }
